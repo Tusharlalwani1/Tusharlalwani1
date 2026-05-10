@@ -78,10 +78,6 @@ I'm a Software Engineering student passionate about building things for the web.
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Tusharlalwani1&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharlalwani1&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -104,9 +100,6 @@ I'm a Software Engineering student passionate about building things for the web.
 
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Tusharlalwani1&color=1D9E75&style=flat-square&label=Profile+Views)
 
 *Thanks for stopping by! Feel free to explore my repos and connect.* 🙌
 
